@@ -1,5 +1,10 @@
 # Nginx Cookbook Changelog
 
+#1.1.0
+
+ENHANCEMENT:
+- Added zero downtime support through reload
+
 # 1.0.0
 
 - BREAKING CHANGES:

@@ -4,7 +4,7 @@ maintainer_email 'ehaxton@gmail.com'
 license 'apachev2'
 description 'Installs/Configures a simple web site using Nginx'
 long_description 'Installs/Configures a simple web site using Nginx'
-version '1.0.0'
+version '1.1.0'
 
 # The `issues_url` points to the location where issues for this cookbook are
 # tracked.  A `View Issues` link will be displayed on this cookbook's page when
