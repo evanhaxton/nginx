@@ -21,6 +21,6 @@ matrix:
     - before_script:
       - eval "$(/opt/chefdk/bin/chef shell-init bash)"
       - /opt/chefdk/embedded/bin/chef --version
-      - /opt/chefdk/embedded/bin/cookstyle --verision
+      - /opt/chefdk/bin/cookstyle --verision
     - script:
       - /opt/chefdk/bin/chef exec cookstyle
